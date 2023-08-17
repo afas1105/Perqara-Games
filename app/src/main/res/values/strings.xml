@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Perqara Games</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_favorite">Add Favorite</string>
+    <string name="image_game">Image Game</string>
+    <string name="search">Search</string>
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
 </resources>
