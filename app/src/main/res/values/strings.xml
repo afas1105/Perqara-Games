@@ -7,4 +7,6 @@
     <string name="search">Search</string>
     <string name="home">Home</string>
     <string name="favorite">Favorite</string>
+    <string name="detail">Detail</string>
+    <string name="back">Back</string>
 </resources>

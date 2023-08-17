@@ -1,4 +1,4 @@
-package com.example.perqaragames.ui
+package com.example.perqaragames.ui.home
 
 import android.annotation.SuppressLint
 import android.util.Log

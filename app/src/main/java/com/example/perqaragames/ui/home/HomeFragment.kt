@@ -9,7 +9,6 @@ import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.perqaragames.databinding.FragmentHomeBinding
 import com.example.perqaragames.model.ResultData
-import com.example.perqaragames.ui.GamesAdapter
 import com.example.perqaragames.ui.detail.DetailActivity
 import com.example.perqaragames.utils.EndlessRecyclerOnScrollListener
 
